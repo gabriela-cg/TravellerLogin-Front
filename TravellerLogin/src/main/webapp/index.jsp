@@ -18,7 +18,7 @@
 
 		<header class="p-4 text-light cor__fundo">
 			<h3 class="text-center">Login</h3>
-			<h5 class="text-center">Projeto Traveller</h5>
+			<h6 class="text-center">Projeto Traveller</h6>
 		</header>
 		
 				
@@ -34,8 +34,8 @@
 		
 		<!-- Campo email -->
 			<div class="form-group">
-		 	<label for="email" class="titulos">Email</label>
-				<input type="email" 
+		 		<label for="email" class="titulos">Email</label>
+					<input type="email" 
 				class="form-control" 
 				id="email"
 				name="email" 
@@ -47,25 +47,30 @@
 			
 			<div class="form-group">
 		 	<label for="senha" class="titulos">Senha</label>
-		 	<div class="input-group mb-2">
 		 		<div class="input-group mb-2">
 				<input type="password" 
 				class="form-control"
 				id="password"
 				name="senha" 
 				placeholder="Senha"
-				required>
+				required></div>
 			</div>
-			<br>
+			
+			
 			
 			<!-- Botão enviar -->
 			<button type="button" class="btn">Entrar</button>
-		 	<span class="fas"></span></button>
 		</form>
-		
+	
+			</div>
+		</div>	
 	</div>
 	
 	<!-- tentar adicionar um rodapé, não consegui :( -->
+	
+		<footer class="p-4 text-light cor__fundo">
+			<h6 class="text-center">Projeto Traveller- Direitos Reservados para trabalho acadêmico FIAP</h6>		
+	</footer>
 	
 	
 </body>
