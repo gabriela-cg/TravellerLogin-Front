@@ -66,7 +66,7 @@
 		</div>	
 	</div>
 	
-	<!-- tentar adicionar um rodapé, não consegui :( -->
+	<!-- Rodapé -->
 	
 		<footer class="p-4 text-light cor__fundo">
 			<h6 class="text-center">Projeto Traveller- Direitos Reservados para trabalho acadêmico FIAP</h6>		
