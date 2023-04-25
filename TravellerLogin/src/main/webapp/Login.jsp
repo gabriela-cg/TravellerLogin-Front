@@ -31,8 +31,8 @@
 		<div class="col-12 col-sm-12 col-md-6 align-self-center"> 
 
 			<button type="button" class="btn btn-center">Sair</button>
-			</div>
-			</div>
+		</div>
+	</div>
 	
 </body>
 </html>
