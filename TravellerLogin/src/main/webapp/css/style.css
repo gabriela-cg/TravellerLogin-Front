@@ -38,3 +38,8 @@ font-family: 'Roboto', sans-serif;
 	color: #ffffff;
 }
 
+.error{
+	background: red;
+	color: white;
+}
+
